@@ -13,3 +13,6 @@
 [submodule "modules/OpenMonica_main"]
 	path = modules/OpenMonica_main
 	url = https://github.com/ppppangu/OpenMonica_main.git
+[submodule "modules/OpenMonica_fileserver"]
+	path = modules/OpenMonica_fileserver
+	url = https://github.com/ppppangu/OpenMonica_fileserver.git
