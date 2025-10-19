@@ -10,3 +10,6 @@
 [submodule "modules/OpenMonica_UserManagement"]
 	path = modules/OpenMonica_UserManagement
 	url = https://github.com/ppppangu/OpenManus_UserManagement.git
+[submodule "modules/OpenMonica_main"]
+	path = modules/OpenMonica_main
+	url = https://github.com/ppppangu/OpenMonica_main.git
