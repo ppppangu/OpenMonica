@@ -1,0 +1,12 @@
+[submodule "modules/convert2pdf"]
+	path = modules/convert2pdf
+	url = https://github.com/ppppangu/convert2pdf_server.git
+[submodule "modules/openmonica_sql"]
+	path = modules/openmonica_sql
+	url = https://github.com/ppppangu/openmonica_sql
+[submodule "modules/OpenMonica_frontend"]
+	path = modules/OpenMonica_frontend
+	url = https://github.com/ppppangu/OpenMonica_frontend.git
+[submodule "modules/OpenMonica_UserManagement"]
+	path = modules/OpenMonica_UserManagement
+	url = https://github.com/ppppangu/OpenManus_UserManagement.git
